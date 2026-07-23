@@ -7,7 +7,7 @@ wires the vehicle-agnostic GN&C libraries into a running vehicle. Unlike the
 Monoprop vehicle integration.
 
 > **Provenance:** Carved out of the monolithic
-> [`Propulsive-Landers-GT/MonopropUAV`](https://github.com/Propulsive-Landers-GT/MonopropUAV)
+> [`GTPL-Testing/MonopropUAV`](https://github.com/GTPL-Testing/MonopropUAV)
 > repo in July 2026. `ControlLoop/`, `Lander/`, and `Monoprop/` are kept whole
 > because each is a cohesive buildable unit. Full commit history is preserved.
 > See the [GTPL-test root README](../README.md) for the full mapping.
